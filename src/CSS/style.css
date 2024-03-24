@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-image: url(../Images/textura-de-gesso-macio_1194-8905.jpg);
+}
+
+.content{
+    width: 600px;
+    margin-top: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+
+p{
+    font-weight: 500;
+    text-align: justify;
+    
+
+}
+
+.text{
+    text-indent: 65px;
+    margin-bottom: 30px;
+}
+
+.esquerda{
+    display: flex;
+    justify-content: end;
+    margin: 0;
+}
